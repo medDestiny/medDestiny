@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mmisskin" alt="mmisskin's 42 stats" /></a>
+[![medDestiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=medDestiny&theme=algolia&show_icons=true)
 
 <!--
 **medDestiny/medDestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mmisskin" alt="mmisskin's 42 stats" /></a>
+
